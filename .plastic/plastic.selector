@@ -1,0 +1,4 @@
+repository "1111@tj_qingcheng3334277@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
